@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b0",
+    "slug": "atomic-habits",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Productivity",
+    "type": "book",
+    "summary": "How tiny, compounding improvements and well-designed systems build lasting habits. Covers identity-based change and the four laws of behaviour change.",
+    "wordCount": 798,
+    "createdAt": "2026-10-15",
+    "week": 1,
+    "durationSec": 278.8,
+    "audio": "atomic-habits.mp3",
+    "script": "atomic-habits.txt",
+    "voice": "af_bella"
+  },
+  {
+    "id": "b1",
+    "slug": "deep-work",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Productivity",
+    "type": "book",
+    "summary": "Why distraction-free concentration is rare and valuable, and how to structure your life to do more of it.",
+    "wordCount": 772,
+    "createdAt": "2026-10-15",
+    "week": 1,
+    "durationSec": 292.3,
+    "audio": "deep-work.mp3",
+    "script": "deep-work.txt",
+    "voice": "af_bella"
+  },
+  {
+    "id": "b2",
+    "slug": "slow-productivity",
+    "title": "Slow Productivity",
+    "author": "Cal Newport",
+    "category": "Productivity",
+    "type": "book",
+    "summary": "A sustainable alternative to busyness: do fewer things, work at a natural pace, and obsess over quality.",
+    "wordCount": 766,
+    "createdAt": "2026-10-15",
+    "week": 1,
+    "durationSec": 292.2,
+    "audio": "slow-productivity.mp3",
+    "script": "slow-productivity.txt",
+    "voice": "af_bella"
+  }
+]
